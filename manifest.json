@@ -1,0 +1,31 @@
+{
+    "theme_color": "#e74514",
+    "background_color": "#e74514",
+    "display": "fullscreen",
+    "scope": "/pwa-webinar/",
+    "start_url": "/pwa-webinar/",
+    "name": "aubay-pwa",
+    "short_name": "apwa",
+    "icons": [
+        {
+            "src": "icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
